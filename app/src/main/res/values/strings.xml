@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task Completed</string>
+    <string name="first_line">All Task Completed</string>
+    <string name="second_line">Nice Work!</string>
+</resources>
